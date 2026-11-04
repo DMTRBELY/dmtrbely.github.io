@@ -12,8 +12,21 @@
     <url>
         <loc>https://dmtrbely.github.io/services/smartphone-repair/</loc>
     </url>
+
     <url>
         <loc>https://dmtrbely.github.io/services/laptop-repair/</loc>
     </url>
-    
+
+    <url>
+        <loc>https://dmtrbely.github.io/services/tablet-repair/</loc>
+    </url>
+
+    <url>
+        <loc>https://dmtrbely.github.io/services/diagnostics/</loc>
+    </url>
+
+    <url>
+        <loc>https://dmtrbely.github.io/prices/</loc>
+    </url>
+
 </urlset>
